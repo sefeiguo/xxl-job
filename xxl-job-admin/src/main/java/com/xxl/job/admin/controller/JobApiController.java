@@ -19,8 +19,7 @@ import java.io.IOException;
 public class JobApiController implements InitializingBean {
 
 
-    @Override
-    public void afterPropertiesSet() throws Exception {
+    public void afterPropertiesSet(){
 
     }
 
